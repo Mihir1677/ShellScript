@@ -1,0 +1,1 @@
+echo -e "Name: Mihir\nEnroll: 22010101417\nRoll no: 282\nSem: 4" 
